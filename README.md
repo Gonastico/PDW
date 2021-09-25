@@ -1,14 +1,14 @@
 ## Table of contents
 
-* General info
-* Technologies
-* Setup
+* [General info](## general-info)
+* [Technologies](## technologies)
+* [Setup](## setup)
 
-##general info
+## General info
 
 This project is simple Lorem ipsum dolor generator
 
-##technologies
+## Technologies
 
 Project is created with:
 
@@ -18,7 +18,7 @@ Project is created with:
 
 * Ament library version: 999
 
-##setup
+## Setup
 
 $ cd ../lorem
 
