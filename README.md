@@ -21,6 +21,8 @@ Project is created with:
 ## Setup
 
 $ cd ../lorem
+
 $ npm install
+
 $ npm start
 
