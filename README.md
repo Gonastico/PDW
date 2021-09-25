@@ -4,11 +4,11 @@
 * Technologies
 * Setup
 
-## General info
+##general info
 
 This project is simple Lorem ipsum dolor generator
 
-## Technologies
+##technologies
 
 Project is created with:
 
@@ -18,7 +18,7 @@ Project is created with:
 
 * Ament library version: 999
 
-## Setup
+##setup
 
 $ cd ../lorem
 
